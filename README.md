@@ -7,9 +7,9 @@ This is my personal configuration for using ApexPMD static code analysis with my
 - VS Code => Settings:
 ```
 "apexPMD.additionalClassPaths": [
-        "*/Users/userName/folders*/apexPMD"
-    ],
-    "apexPMD.rulesets": [
-        "*/Users/userName/folders*/apexPMD/customApexRules_PMD.xml"
-    ]
+    "*/Users/userName/folders*/apexPMD"
+],
+"apexPMD.rulesets": [
+    "*/Users/userName/folders*/apexPMD/customApexRules_PMD.xml"
+]
 ```
